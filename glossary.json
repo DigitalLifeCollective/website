@@ -1,0 +1,195 @@
+[
+  {
+    "term": "Accessibility",
+    "description": "\n                  The design of products, devices, services, or environments for people who\n                  experience disabilities.\n                "
+  },
+  {
+    "term": "Alice, Bob and Charlie",
+    "description": "\n                  The cryptography community started to use these names (A, B and C) in the\n                  1970s to explain their designs. Now the tech community uses the names more\n                  widely for greater clarity than say user1, user2 and user3.\n                "
+  },
+  {
+    "term": "App",
+    "description": "\n                  Short for software application, mostly used in the context of an application\n                  designed to run on mobile devices.\n                "
+  },
+  {
+    "term": "Artificial intelligence (AI)",
+    "description": "\n                  Intelligence exhibited by machines, typically developed for specific goals\n                  such as reasoning, knowledge building, planning, learning, and understanding\n                  spoken and written language. More ambitiously, a general AI may be applied\n                  to any of these specific goals in the same way humans can adapt to different\n                  goals.\n                "
+  },
+  {
+    "term": "Authentication",
+    "description": "\n                  Confirming the truth of some piece of data or information claimed to be\n                  true. In the context of identity, authentication is the process of actually\n                  confirming that the person claiming to be Alice is indeed Alice.\n                "
+  },
+  {
+    "term": "Biometric",
+    "description": "\n                  Metrics related to human characteristics. Biometric authentication may allow\n                  Alice to access her device with her fingerprint for example. Biometrics may\n                  also help identify individuals under surveillance, for example with facial\n                  recognition.\n                "
+  },
+  {
+    "term": "Bitcoin",
+    "description": "\n                  Bitcoin is the world's first cryptocurrency. It is also the name of the\n                  underlying system, the world's first application of blockchain technology.\n                "
+  },
+  {
+    "term": "Blockchain",
+    "description": "\n                  A distributed database that maintains a continuously growing list of\n                  records, called blocks, secured with encryption from tampering and revision.\n                  Before the blockchain we could have secure centralized databases and\n                  insecure decentralized databases, and now we can have secure decentralized\n                  databases. Bitcoin was the first application of a blockchain. The blockchain\n                  is a form of distributed ledger.\n                "
+  },
+  {
+    "term": "Browser,web browser",
+    "description": "\n                  Software for retrieving, presenting and making one's way around the World\n                  Wide Web. Also known as a web browser. Examples include Mozilla Firefox,\n                  Microsoft Edge, Google Chrome, Apple Safari, and Opera.\n                "
+  },
+  {
+    "term": "Browsing history",
+    "description": "\n                  The list of the web pages a user has visited recently in a browser,\n                  including the title of the web page and the date and time of the visit. This\n                  facility allows the browser's back button to know where exactly to go back\n                  to. The browser can apply a different color to hyperlinks on current web\n                  pages indicating whether or not the user has been there before, and it\n                  provides a searchable log to allow the user to find a web page they wish to\n                  return to. Your browsing history is personal data.\n                "
+  },
+  {
+    "term": "Consensus",
+    "description": "\n                  Consensus decision-making is a group decision-making process in which group\n                  members develop, and agree to support a decision in the best interest of the\n                  whole. It represents a broadly acceptable resolution. In sociocracy, consent\n                  is preferred to consensus.\n                "
+  },
+  {
+    "term": "Consent",
+    "description": "\n                  In data protection, consent means any freely given, specific, informed and\n                  unambiguous indication of the data subject's wishes by which he or she\n                  deliberately indicates agreement to the processing of personal data relating\n                  to him or her. In sociocracy, consent is used instead of consensus for\n                  decision-making.\n                "
+  },
+  {
+    "term": "Cookies",
+    "description": "\n                  A small piece of data sent from a website and stored on the user's computer\n                  by the user's web browser. Cookies were designed to improve user experience\n                  by remembering things from the last time the user visited the website so the\n                  user wouldn't have to set them again. For example: a preference for the\n                  French language version; remembering items that had previously been selected\n                  for purchase; automatically logging the user back in. However, cookies were\n                  very soon adopted for other reasons including the ability to track the\n                  user's browsing history, a privacy concern and an early form of surveillance\n                  capitalism.\n                "
+  },
+  {
+    "term": "Co-operative",
+    "description": "\n                  An autonomous association of persons united voluntarily to meet their common\n                  economic, social, and cultural needs and aspirations through a jointly owned\n                  and democratically-controlled enterprise.\n                "
+  },
+  {
+    "term": "Cryptocurrency",
+    "description": "\n                  A digital form of money where money is defined as a medium of exchange (used\n                  in transactions), a unit of account (a measurement quantity), and a store of\n                  value (allowing money earned today to be stored for tomorrow). As the name\n                  implies, it relies on cryptography. Most everyday money is fiat money, which\n                  means it's established by government regulation or law, whereas a\n                  cryptocurrency does not depend on either.\n                "
+  },
+  {
+    "term": "Cryptography,encryption",
+    "description": "\n                  The construction and analysis of methods that prevent anyone other than the\n                  intended recipient(s) from reading private messages. The message may be\n                  intended for humans (e.g. instant messaging) or machines (e.g. purchasing\n                  something online). The stronger the cryptography, the more difficult it is\n                  for a third party to break it.\n                "
+  },
+  {
+    "term": "Data",
+    "description": "\n                  Individual, separate, objective facts representing the properties of objects\n                  and events. Computers work with data, but humans do not. Rather, we deal in\n                  information; that is processed data, data made useful, data made relevant.\n                "
+  },
+  {
+    "term": "Data protection",
+    "description": "\n                  The relationship between the collection and dissemination of data,\n                  technology, the public expectation of privacy, and the legal and political\n                  issues surrounding them.\n                "
+  },
+  {
+    "term": "Data subject",
+    "description": "\n                  The identified or identifiable natural person to whom personal data relates.\n                "
+  },
+  {
+    "term": "\n                  Centralization,decentralization,redecentralization,centralize,decentralize,redecentralize,distributed\n                ",
+    "description": "\n                  Unlike a centralized network, decentralized and distributed networks don't\n                  have one central component through which everything passes. The economist\n                  E.F. Schumacher associated decentralization with freedom and one of “the\n                  truths revealed by nature's living processes.\" In other words, we don't find\n                  centralized networks in Nature. See https://diglife.com/decentralization/\n                  for more information.\n                "
+  },
+  {
+    "term": "Digital inclusion,inclusion",
+    "description": "\n                  About making the digital world available to everyone without exception.\n                "
+  },
+  {
+    "term": "Distributed ledger",
+    "description": "\n                  A set of data that is located and maintained in many places around a\n                  decentralized or distributed network in such a manner that it's consistent\n                  without requiring a central administrator or storage place. Blockchain is\n                  one form of distributed ledger.\n                "
+  },
+  {
+    "term": "Dynamic governance",
+    "description": "\n                  Known as sociocracy ourside N. America. Both a social ideal that values\n                  equality and the rights of people to decide the conditions under which they\n                  live and work, and an effective method of organizing collaborative and\n                  productive organizations as associations, businesses, and governments, large\n                  and small.\n                "
+  },
+  {
+    "term": "Federated",
+    "description": "\n                  A grouping of computing or network providers agreeing upon standards of\n                  operation collectively. This may allow different systems to work differently\n                  but so they can still work together, e.g. when users are able to send\n                  messages from one network to the other.\n                "
+  },
+  {
+    "term": "Holon",
+    "description": "\n                  A holon is simultaneously a whole and a part. It's an evolving,\n                  self-organizing system (or phenomenon) composed of other holons. Their\n                  structures sit on the boundary of chaos and order.\n                "
+  },
+  {
+    "term": "Hyperlink",
+    "description": "\n                  A reference to data or document that the reader can follow directly by\n                  clicking, tapping, or hovering, depending on the device used.\n                "
+  },
+  {
+    "term": "Identity",
+    "description": "\n                  Philosophically, identity asks \"What makes it true that you are you?\" We\n                  deal here with digital identity – information on a person, organization,\n                  application, device or other 'thing', that describes it uniquely. The\n                  process of subsequently confirming an identity is known as authentication.\n                "
+  },
+  {
+    "term": "Information",
+    "description": "\n                  Processed data, data made useful, data made relevant. Computers work with\n                  data. Humans work with information.\n                "
+  },
+  {
+    "term": "Instant messaging",
+    "description": "\n                  A type of chat that offers real-time text transmission over the Internet.\n                  Popular instant messaging (IM) services include: AIM, Blackberry Messenger,\n                  eBuddy, Facebook Messenger, iMessage, Line, QQ, Signal, Telegram, Windows\n                  Live Messenger, WeChat, Whatsapp.\n                "
+  },
+  {
+    "term": "Internet",
+    "description": "\n                  The global system of interconnected computer networks that use the Internet\n                  protocols to link devices.\n                "
+  },
+  {
+    "term": "Knowledge",
+    "description": "\n                  We build knowledge from data and information by identifying and interpreting\n                  patterns. Knowledge enables better understanding.\n                "
+  },
+  { "term": "Network", "description": "See decentralization." },
+  {
+    "term": "Open",
+    "description": "\n                  An emphasis on transparency and free, unrestricted access to knowledge and\n                  information, and also collaborative or cooperative management and\n                  decision-making rather than a central authority.\n                "
+  },
+  {
+    "term": "Open source software",
+    "description": "\n                  Open source software (OSS) means that the source code (the code humans write\n                  before it's converted into code a computing device runs) is freely licensed\n                  to those who need to change it. However, there is typically no requirement\n                  to pass on that source code to the end users. Free (Libre) Software – often\n                  written as FOSS or FLOSS – is freely licensed to the person who needs to\n                  change it and those changes have to be made available to the end user.\n                "
+  },
+  {
+    "term": "OurTech",
+    "description": "\n                  \"Their tech\" is, obviously, out of our control. \"My tech\" is the form that\n                  many reactions to \"their tech\" take, but it soon becomes apparent that its\n                  usefulness is very limited. No (wo)man is an island. As social animals, we\n                  live and work together, and so then must our technology. Moreover, our data\n                  needs to breathe with other data for it to become useful, actionable\n                  information. OurTech entails us coming together as we each determine for our\n                  shared benefit. Under our direct supervision. Interoperable. Personal.\n                  Mutual. Co-operative. Trusted.\n                "
+  },
+  {
+    "term": "Peer-to-peer",
+    "description": "\n                  A distributed architecture that regards all the things (peers) involved to\n                  have equal status and equal power of participation in the network. Such\n                  design may entail the peers sharing out tasks between themselves.\n                "
+  },
+  {
+    "term": "Personal data",
+    "description": "\n                  The European Parliament defines personal data as \"any information relating\n                  to an identified or identifiable natural person (‘data subject'); an\n                  identifiable natural person is one who can be identified, directly or\n                  indirectly, in particular by reference to an identifier such as a name, an\n                  identification number, location data, an online identifier or to one or more\n                  factors specific to the physical, physiological, genetic, mental, economic,\n                  cultural or social identity of that natural person.\"\n                "
+  },
+  {
+    "term": "Privacy",
+    "description": "\n                  Once it was enough to define privacy as the right to be let alone. Today, it\n                  extends beyond 'boundaries' and 'being watched'... E.g. Bob shouldn't\n                  acquire information about Alice, Bob shouldn't interfere with Alice's\n                  actions, Bob shouldn't intrude into Alice's space, Bob should tolerate\n                  Alice's beliefs, and Bob shouldn't appropriate, use, or exchange Alice's\n                  property.\n                "
+  },
+  {
+    "term": "Single sign-on (SSO)",
+    "description": "\n                  Allows users, with just a single username and password, to log in to a\n                  connected system or systems without using different usernames or passwords\n                  for each one. Facebook Connect is a popular example. However, some SSO\n                  systems allow the service provider to track your use of the SSO on websites\n                  and in applications – Facebook Connect and Google ID for example.\n                "
+  },
+  {
+    "term": "Sociocracy",
+    "description": "\n                  Known as Dynamic Governance in N. America. Both a social ideal that values\n                  equality and the rights of people to decide the conditions under which they\n                  live and work, and an effective method of organizing collaborative and\n                  productive organizations as associations, businesses, and governments, large\n                  and small.\n                "
+  },
+  {
+    "term": "Surveillance",
+    "description": "\n                  The monitoring of behavior, activities, or other changing information for\n                  the purpose of influencing, managing, directing, or protecting people.\n                "
+  },
+  {
+    "term": "Surveillance capitalism",
+    "description": "\n                  A term used and popularized by Shoshana Zuboff to describe a new type of\n                  capitalism that profits from data acquired through surveillance.\n                "
+  },
+  {
+    "term": "Sustainable",
+    "description": "\n                  The property of biological systems to remain diverse and productive\n                  indefinitely. By contrast, the way people use the planet today is\n                  unsustainable.\n                "
+  },
+  {
+    "term": "Tor",
+    "description": "\n                  Free software for enabling anonymous communication. The name is derived from\n                  an acronym for the original software project name \"The Onion Router\".\n                "
+  },
+  {
+    "term": "Trust",
+    "description": "\n                  The willingness to be vulnerable to the actions of another party based on\n                  the expectation that the other will perform a particular action important to\n                  the person doing the trusting, regardless of whether the person can monitor\n                  or control that other party.\n                "
+  },
+  {
+    "term": "Two-factor",
+    "description": "\n                  A form of authentication where the first factor – something you know, such\n                  as a password – is complemented by a second factor – something you have,\n                  such as your mobile phone. It's very difficult for anyone trying to\n                  impersonate you to get hold of both of these things at the same time.\n                "
+  },
+  {
+    "term": "Virtual private network (VPN)",
+    "description": "\n                  Establishes a connection across the public Internet with the security one\n                  might expect connecting over a private network. Businesses use VPNs to allow\n                  remote staff to connect securely. VPN services are also useful for Internet\n                  users who don't want their (broadband or mobile operator) internet services\n                  provider logging everywhere they go online.\n                "
+  },
+  {
+    "term": "Wi-Fi",
+    "description": "\n                  A technology for the wireless connection of devices not too far away from\n                  each other. It's a trademark, and only devices that are certified compatible\n                  with the corresponding standards may claim to be Wi-Fi enabled.\n                "
+  },
+  {
+    "term": "World Wide Web (WWW)",
+    "description": "\n                  Often confused with the Internet, the World Wide Web actually runs on the\n                  Internet. It allows documents and other web resources to be identified by\n                  Uniform Resource Locators (URLs, sometimes known as web addresses) such that\n                  any document can link to another with hyperlinks.\n                "
+  }
+]
