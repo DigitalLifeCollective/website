@@ -23,6 +23,7 @@
         <script src="assets/js/main.js"></script>
         <script src="assets/js/tooltip.js"></script>
         <script src="assets/js/jquery.glossarize.js"></script>
+
   </head>
   <body class="is-preload">
     <!-- Wrapper -->
@@ -65,7 +66,7 @@
           </header>
 
           <!-- Content -->
-          <section>
+          <section class="post">
             <header class="main">
               <h1>Glossary</h1>
             </header>
@@ -80,17 +81,17 @@
               keep jargon to a minimum and the wizardy technologists in our midst promise
               (don't you?!) to refrain from using any terms that aren't listed here within the
               general fora and discussions. Thanks. Courtesy of the
-              [Glossarizer](https://github.com/PebbleRoad/glossarizer) team, the primary
+              <a href="https://github.com/PebbleRoad/glossarizer">Glossarizer</a> team, the primary
               purpose of this glossary is to explain words and phrases as they crop up around
               our website. They are identified with a thin underline. Place your mouse over
               the word or phrase to reveal their definition. Of course, this page can also be
               referred to directly. The quickest way to see if we have the definition you're
               looking for is to use your browser's search facility (press Ctrl-F or Cmd-F and
-              start typing).</p>
+              start typing). Test: Accessibility</p>
               
               <hr />
               
-              <dl id="definitions"  class="post">
+              <dl id="definitions">
                 <dt>Accessibility</dt>
               
                 <dd>
@@ -689,21 +690,21 @@
         </div>
       </div>
     </div>
+
     <script>
       $(function(){
         console.log("start")
         // This script initiates the glossary 
         $('.post').glossarizer({
-          sourceURL: '/glossary.json',
+          sourceURL: 'glossary.json',
           replaceOnce   : true,
           callback: function(){
             // Callback fired after glossarizer finishes its job
             console.log("continue");
-            new tooltip();
+            new tooltip(); 
           }
         });
       });
       </script>
-
   </body>
 </html>
